@@ -1,2 +1,11 @@
-list = [1,4,67,41,21,61,78,2,3,0,4,6,9,10]
-  
+
+num = int(input("enter a number"))
+if num == 78 :
+    print("you won")
+    
+elif num > 78:
+    print("your number needs to be smaller")
+    
+else: 
+    print("your number needs to be bigger")
+
