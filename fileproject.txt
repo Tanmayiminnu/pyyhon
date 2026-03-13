@@ -1,0 +1,2 @@
+ File in write mode ....Hi! I am lia. My favorite subject is math 
+ File in append mode ....Hi! I am lia. My favorite subject is math
